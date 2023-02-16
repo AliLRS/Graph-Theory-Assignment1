@@ -1,2 +1,2 @@
 # Graph-Theory-Assignment1
-Python exercise for GraphTheory course
+Python exercise for Graph Theory course
